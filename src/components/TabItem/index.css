@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.Tab-Item {
+  color: #7b8794;
+}
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+  color: #7b8794;
+  font-weight: 600;
+  font-size: 18px;
+  border-bottom: 2px;
+  text-decoration: underline;
+}
+
+.active-tab-btn {
+  color: #2563eb;
+  text-underline-position: below;
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+}
